@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <img src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-12/laptop-agencies-consulting-website-development-companies.png" alt="logo" style="width: 100%;">
 </div>
-<h1 align="center">Hi 👋, I'm Oumaima MAO</h1>
+<h1 align="center">Hi 👋, I'm DevDiva</h1>
 <h3 align="center">Computer Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
